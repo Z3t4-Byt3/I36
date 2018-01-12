@@ -1,0 +1,31 @@
+usagem da ferramenta 
+
+
+dando permissao a ferramenta:
+    chmod +x I36.py
+
+executando a ferramenta:
+    python3 I36.py
+
+usando ela diga 'help' para mostrar as 18 opcoes 
+
+diga 'credits' para ver os creditos.
+
+
+criado por Mr.HACv4
+
+
+channel youtube: hacking linux
+
+
+
+ferramenta desenvolvida em python3 
+
+canal no youtube link:
+
+
+https://www.youtube.com/channel/UCnRK-2g4uYqAFK-mKtWyYSg
+
+--------------
+fim...
+--------------
